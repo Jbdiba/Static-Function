@@ -17,7 +17,6 @@ class Square {
 }
 
 
-
 let s1 = new Square(4)
 let s2 = new Square(6)
 
